@@ -1,0 +1,10 @@
+{
+	"employeeID": 1,
+	"firstName": "abdul",
+	"lastName": "kazim",
+	"emailID": "abdulkazim@gmail.com",
+	"mobileNo": "9500772000",
+	"gender": "male",
+	"age": 29,
+	"department": "Tester"
+}
